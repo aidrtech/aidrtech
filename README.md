@@ -49,4 +49,4 @@
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vagrant.svg" alt="Vagrant" width="20" height="20" align="center"> Vagrant
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" alt="vmware" width="20" height="20" align="center"> VMWare ESXi
-- <img src="https://https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openwrt/default.svg" alt="openwrt" width="20" height="20" align="center"> OpenWrt
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openwrt/default.svg" alt="openwrt" width="20" height="20" align="center"> OpenWrt
