@@ -36,15 +36,13 @@
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
 - <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/freebsd/default.svg" alt="FreeBSD" width="20" height="20" align="center"> FreeBSD
 - <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/archlinux/default.svg" alt="Arch" width="20" height="20" align="center"> Arch(btw)
-
-- <img src="images/icons/solaris-color.svg" alt="Solaris" width="20" height="20" align="center"> Oracle Solaris
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg" alt="Windows" width="20" height="20" align="center"> Microsoft Windows
-- <img src="images/icons/macos-color.svg" alt="MacOS" width="20" height="20" align="center"> MacOSX
-- <img src="images/icons/virtualbox-color.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
-
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/oracle/default.svg" alt="Oracle" width="20" height="20" align="center"> Oracle
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/macos/default.svg" alt="MacOS" width="20" height="20" align="center"> macOS
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/virtualbox/default.svg" alt="oracle virtualbox" width="20" height="20" align="center"> VirtualBox
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/qemu/default.svg" alt="Qemu" width="20" height="20" align="center"> Qemu
 - <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android-studio/default.svg" alt="AndroidStudio" width="20" height="20" align="center"> AndroidStudio
 - <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/termux/default.svg" alt="Termux" width="20" height="20" align="center"> Termux
-
 - <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/emacs/default.svg" alt="Emacs" width="20" height="20" align="center"> Emacs
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vagrant.svg" alt="Vagrant" width="20" height="20" align="center"> Vagrant
