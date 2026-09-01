@@ -36,6 +36,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
 - <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/freebsd/default.svg" alt="FreeBSD" width="20" height="20" align="center"> FreeBSD
 - <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/archlinux/default.svg" alt="Arch" width="20" height="20" align="center"> Arch(btw)
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" alt="NixOS" width="20" height="20" align="center"> Nixos
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg" alt="Windows" width="20" height="20" align="center"> Microsoft Windows
 - <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/oracle/default.svg" alt="Oracle" width="20" height="20" align="center"> Oracle
 - <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/macos/default.svg" alt="MacOS" width="20" height="20" align="center"> macOS
